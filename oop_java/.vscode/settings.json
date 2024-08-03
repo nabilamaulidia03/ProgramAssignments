@@ -1,0 +1,26 @@
+{
+  "editor.fontSize": 18,
+  "window.zoomLevel": -2,
+  "terminal.integrated.fontSize": 18,
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "vscode-icons",
+  "java.project.sourcePaths": [
+    "Bab2",
+    "Bab 9",
+    "Bab 8",
+    "Bab 7",
+    "Bab 6",
+    "Bab 5",
+    "Bab 4",
+    "Bab 3",
+    "Bab 18",
+    "Bab 17",
+    "Bab 16",
+    "Bab 14",
+    "Bab 13",
+    "Bab 12",
+    "Bab 11",
+    "Bab 10",
+    "Bab15"
+  ]
+}
